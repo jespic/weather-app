@@ -1,0 +1,1 @@
+Simple app that allows you to get the weather forecast of your city or anywhere.  It has been developed with the intention of learning more about nodeJS.
